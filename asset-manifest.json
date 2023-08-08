@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/astra-fades-website/static/css/main.bbade509.css",
-    "main.js": "/astra-fades-website/static/js/main.489d0433.js",
-    "static/media/background.jpg": "/astra-fades-website/static/media/background.4b2fd0ea41f700860a09.jpg",
-    "static/media/aboutImage.jpeg": "/astra-fades-website/static/media/aboutImage.74810e83d33f87112f6f.jpeg",
-    "static/media/snapchat.png": "/astra-fades-website/static/media/snapchat.6726836ef5d886d76f9d.png",
-    "static/media/instagram.png": "/astra-fades-website/static/media/instagram.2aaf0bef95784383f8dc.png",
-    "static/media/BORGES_LOGO.png": "/astra-fades-website/static/media/BORGES_LOGO.f2ac270e92bf74b9bd49.png",
-    "index.html": "/astra-fades-website/index.html",
-    "main.bbade509.css.map": "/astra-fades-website/static/css/main.bbade509.css.map",
-    "main.489d0433.js.map": "/astra-fades-website/static/js/main.489d0433.js.map"
+    "main.css": "/astra-fades/static/css/main.58254c37.css",
+    "main.js": "/astra-fades/static/js/main.43508bd2.js",
+    "static/media/background.jpg": "/astra-fades/static/media/background.4b2fd0ea41f700860a09.jpg",
+    "static/media/aboutImage.jpeg": "/astra-fades/static/media/aboutImage.74810e83d33f87112f6f.jpeg",
+    "static/media/snapchat.png": "/astra-fades/static/media/snapchat.6726836ef5d886d76f9d.png",
+    "static/media/instagram.png": "/astra-fades/static/media/instagram.2aaf0bef95784383f8dc.png",
+    "static/media/BORGES_LOGO.png": "/astra-fades/static/media/BORGES_LOGO.f2ac270e92bf74b9bd49.png",
+    "index.html": "/astra-fades/index.html",
+    "main.58254c37.css.map": "/astra-fades/static/css/main.58254c37.css.map",
+    "main.43508bd2.js.map": "/astra-fades/static/js/main.43508bd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbade509.css",
-    "static/js/main.489d0433.js"
+    "static/css/main.58254c37.css",
+    "static/js/main.43508bd2.js"
   ]
 }
