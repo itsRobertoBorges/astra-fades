@@ -1,0 +1,39 @@
+.working-hours-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .working-day {
+    width: 150px;
+    height: 150px;
+    background-color: #333;
+    color: white;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+  }
+  
+  .day {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .hours {
+    font-size: 1rem;
+  }
+  
+  .working-hours-box {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .working-hours-box:hover {
+    transform: scale(1.2);
+  }
+  
+    

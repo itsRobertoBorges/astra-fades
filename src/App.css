@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.hero_image {
+  position:absolute;
+  z-index:0;
+}
+
+.heroText{
+   font-size: 50px;
+}
+
+.sticky-nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.body-bg {
+  background-image: url('./assets/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh; /* Set the minimum height to cover the entire viewport */
+}
+
+.fade-in {
+  opacity: 1;
+}
+
+@keyframes myBouncingAnimation {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.8); }
+  100% { transform: scale(1); }
+}
+
+@keyframes myBouncingAnimationCard {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.8); }
+  100% { transform: scale(1); }
+}
+
+
+.my-bouncing-animation {
+  animation-name: myBouncingAnimation;
+  animation-duration: 2s;
+  animation-iteration-count: 2;
+}
+
+.my-bouncing-animation-card {
+  animation-name: myBouncingAnimationCard;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+
+
+
+
