@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/astra-fades-website/static/css/main.bbade509.css",
+    "main.js": "/astra-fades-website/static/js/main.489d0433.js",
+    "static/media/background.jpg": "/astra-fades-website/static/media/background.4b2fd0ea41f700860a09.jpg",
+    "static/media/aboutImage.jpeg": "/astra-fades-website/static/media/aboutImage.74810e83d33f87112f6f.jpeg",
+    "static/media/snapchat.png": "/astra-fades-website/static/media/snapchat.6726836ef5d886d76f9d.png",
+    "static/media/instagram.png": "/astra-fades-website/static/media/instagram.2aaf0bef95784383f8dc.png",
+    "static/media/BORGES_LOGO.png": "/astra-fades-website/static/media/BORGES_LOGO.f2ac270e92bf74b9bd49.png",
+    "index.html": "/astra-fades-website/index.html",
+    "main.bbade509.css.map": "/astra-fades-website/static/css/main.bbade509.css.map",
+    "main.489d0433.js.map": "/astra-fades-website/static/js/main.489d0433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbade509.css",
+    "static/js/main.489d0433.js"
+  ]
+}
