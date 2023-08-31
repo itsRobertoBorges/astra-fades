@@ -20,7 +20,7 @@ const Hero = () => {
         <h1 className={`my-bouncing-animation display-2 pt-5 text-white ${showHero ? 'fade-in' : ''}`}>
           Crafting Confidence,<br /> One Cut at a Time
         </h1>
-        <h3 className={`my-bouncing-animation display-7 pt-4 text-white ${showHero ? 'fade-in' : ''}`}>
+        <h3 className={`my-bouncing-animation display-7 pt-5 text-white ${showHero ? 'fade-in' : ''}`}>
           Milton, Ontario<br />
           620 Ferguson Drive Unit 67<br />
           (647)-355-4880<br />
