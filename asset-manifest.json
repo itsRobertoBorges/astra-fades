@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/astra-fades/static/css/main.58254c37.css",
-    "main.js": "/astra-fades/static/js/main.2bf7ab5b.js",
+    "main.js": "/astra-fades/static/js/main.d5481a89.js",
     "static/media/background.jpg": "/astra-fades/static/media/background.4b2fd0ea41f700860a09.jpg",
     "static/media/aboutImage.jpeg": "/astra-fades/static/media/aboutImage.74810e83d33f87112f6f.jpeg",
     "static/media/snapchat.png": "/astra-fades/static/media/snapchat.6726836ef5d886d76f9d.png",
@@ -9,10 +9,10 @@
     "static/media/BORGES_LOGO.png": "/astra-fades/static/media/BORGES_LOGO.f2ac270e92bf74b9bd49.png",
     "index.html": "/astra-fades/index.html",
     "main.58254c37.css.map": "/astra-fades/static/css/main.58254c37.css.map",
-    "main.2bf7ab5b.js.map": "/astra-fades/static/js/main.2bf7ab5b.js.map"
+    "main.d5481a89.js.map": "/astra-fades/static/js/main.d5481a89.js.map"
   },
   "entrypoints": [
     "static/css/main.58254c37.css",
-    "static/js/main.2bf7ab5b.js"
+    "static/js/main.d5481a89.js"
   ]
 }
